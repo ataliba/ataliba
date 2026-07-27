@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Ataliba's GitHub stats](https://github-readme-stats.vercel.app/api?username=ataliba&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ataliba/github-readme-stats#gh-dark-mode-only)
-
 <!--
 **ataliba/ataliba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
