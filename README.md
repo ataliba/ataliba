@@ -1,5 +1,9 @@
 ### Hi there 👋
+### 📊 My GitHub Stats
 
+![Your Name's GitHub Stats](https://vercel.app)
+
+![Your Top Languages](https://vercel.app)
 <!--
 **ataliba/ataliba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
