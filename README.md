@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ataliba)](https://github.com/pranesh-2005/github-readme-stats-fast)
 <!--
 **ataliba/ataliba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
